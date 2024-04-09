@@ -2,8 +2,8 @@ In this repository, I have attached reports with my progress on:
 1) Creating symmetric and asymmetric encryption;
 2) Working with Metasploit;
 3) Creating a Telegram bot;
-4) 4) Data analysis in ElasticSearch;
-5) Configuring circuits in Cisco Packet Tracer
+4) Data analysis in ElasticSearch;
+5) Configuring circuits in Cisco Packet Tracer;
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
